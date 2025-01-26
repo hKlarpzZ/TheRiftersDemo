@@ -31,5 +31,8 @@
 			"Name": "Niagara",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
